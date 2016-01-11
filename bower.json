@@ -1,0 +1,31 @@
+{
+  "name": "webapp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "jari <jari.sandstrom@metropolia.fi>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.0"
+  },
+  "dependencies": {
+    "angular": "~1.4.8",
+    "jquery": "~2.2.0",
+    "bootstrap": "~3.3.6"
+  }
+}
